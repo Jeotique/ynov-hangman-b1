@@ -1,0 +1,1 @@
+SUFFIT DE FAIRE `go run .` ou `go run . nom_fichier`
